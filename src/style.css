@@ -9,6 +9,7 @@ body {
 h1 {
   font-weight: 600;
   color: #292d5a;
+  line-height: 50px;
 }
 
 small {

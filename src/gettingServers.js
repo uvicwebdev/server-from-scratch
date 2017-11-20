@@ -4,13 +4,15 @@ import './style.css'
 
 export default () => (
   <ContentSlide className='slide'>
-    <h1>How about my domain?</h1>
+    <h1>How do I acquire a server?</h1>
     <section>
-      <p>So you have to buy this as well, except you're buying this on a yearly basis.</p>
-      <p>My preferred domain name marketplace is Namecheap.</p> 
+      <p>There a plenty of VPS providers, most of which have a $5/month offering.</p>
+      <p>We'll use prgmr.com.</p> 
     </section>
     <section className='images'>
-      <img src={require('./namecheap.png')}/>
+      <img src={require('./do.png')}/>
+      <img src={require('./linode.png')}/>
+      <img src={require('./prgmr.png')}/>
     </section>
   </ContentSlide>
 )
