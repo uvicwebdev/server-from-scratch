@@ -1,0 +1,38 @@
+body {
+  line-height: 25px;
+}
+
+.slide {
+  margin: 5vw 8vw;
+}
+
+h1 {
+  font-weight: 600;
+  color: #292d5a;
+  line-height: 50px;
+}
+
+small {
+  display: block;
+  margin: 10px 0;
+}
+
+li {
+  margin: 40px 0;
+}
+
+pre {
+  display: inline;
+  color: blue;
+}
+
+section {
+  padding: 20px;
+  line-height: 40px;
+}
+
+.images img {
+  width: 20vw;
+  height: auto;
+  margin: 2vw;
+}
